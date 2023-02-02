@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "website_menus",
+  "info": {
+    "singularName": "website-menu",
+    "pluralName": "website-menus",
+    "displayName": "website-menu"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "menus": {
+      "type": "json"
+    }
+  }
+}
